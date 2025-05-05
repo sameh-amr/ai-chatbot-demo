@@ -227,7 +227,7 @@ const AIChatbotDemo = () => {
   <div className="max-w-3xl mx-auto px-4">
     <div className="flex flex-col md:flex-row justify-between items-center text-sm text-gray-600">
       <div className="mb-2 md:mb-0">
-        © {new Date().getFullYear()} Stackvibes, Inc. All rights reserved.
+        © {new Date().getFullYear()} StackVibes, Inc. All rights reserved.
       </div>
     </div>
   </div>
